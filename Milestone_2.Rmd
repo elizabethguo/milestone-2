@@ -1,0 +1,19 @@
+---
+title: "Milestone 2"
+author: "Elizabeth Guo"
+date: "9/20/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Project 1 - William Smiles: POTUS & PRICING: How Trump’s Tweets Affect Intraday Trading. President Trump’s tweets and their effects on financial markets
+
+This project seems to me to have extensive data gathering/cleaning because William had to collect data on all of Trump’s tweets as President, in addition to stock price and trading for every day, and then implemented a keyword search function. Pros: This project has a really interesting topic to me, as it attempts to investigate how President’s Trump’s social media messages might have a tangible effect on user markets. The interface is also very user-friendly; the design of the website is aesthetically pleasing, and it is very easy to use the keyword search function. Cons: It is unclear to me exactly how Trump’s tweets are affecting pricing and trade volume. If there was a way to plot information about the tweets and information about the markets on the same graph, I think it would be easier to see the relationship. Also, the second tab, “Key Tweets,” is a bit confusing and could use more explanation. I am not entirely sure what the units of the x-axis are, and what this tab is supposed to be telling me.
+
+
+## Project 2 - Margaret Sun: Beyond The Stage. Various insights into the music group BTS.
+
+Pros: Margaret’s “Summary of Findings” on her first tab is very nicely organized and makes the results of her project very easy to understand. She includes nice links to various web pages in her “About” tab too. The colors in her “Beyond K-pop?” and “Beyond Billboard?” tabs are also aesthetically pleasing, and these bar graphs are clear and easy to interpret. Cons: Further explanation on how Margaret determined factors like “danceability” quantitatively would be nice. I am a little unclear where exactly she got her data from, and what her data collection techniques were. 
